@@ -7,6 +7,7 @@ O projeto está organizado em duas pastas:
 - **tarefas02**: Contém exercícios opcionais - questoes de 01 a 23 respondidas [andamento]
 
 ## Como Executar
+É necessário ter o Node.js instalado.
 
 ### Tarefas Obrigatórias (tarefas01)
 
@@ -19,4 +20,7 @@ O projeto está organizado em duas pastas:
    ```
    npm install
    ```
-
+3. Instalar a extensao Code Runner ou Executar no terminal diretamente:
+   ```
+   node exercicio_01.js
+   ```
